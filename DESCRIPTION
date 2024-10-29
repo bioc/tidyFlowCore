@@ -1,7 +1,7 @@
 Package: tidyFlowCore
 Type: Package
 Title: tidyFlowCore: Bringing flowCore to the tidyverse
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     c(person(given = "Timothy",
              family = "Keyes",
